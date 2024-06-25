@@ -2,6 +2,9 @@
 
 This project implements the PageRank algorithm in Python for provided dataset (containing links to webpages). The goal is to compute PageRank scores for web pages based on their link structure.
 
+## Running application:
+Run src/pagerank.py file
+
 ## Files:
 
 ### links.srt.gz
